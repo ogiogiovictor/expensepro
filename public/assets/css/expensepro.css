@@ -1,0 +1,265 @@
+.statuspro{
+  
+}
+.loaderimg{
+    background-image: url("https://c-iprocure.com/moneybook/public/images/load.gif");
+}
+
+.logo .simple-texts {
+    text-transform: uppercase;
+    padding: 5px 0px;
+    /* display: block; */
+    font-size: 18px;
+    color: #3C4858;
+    text-align: center;
+    font-weight: 400;
+    /* line-height: 30px; */
+    text-align: center;
+    font-weight: bolder;
+}
+
+.errorRed{
+    color:red;
+}
+.errorGreen{
+    color:green;
+}
+/* **************  CSS DISPLAY FOR CUSTOM MODAL **************************/
+
+	.popup-position{
+		display : none;
+		position : fixed;
+		top : 0;
+		left: 0;
+		background-color : rgba(0, 0, 0, 0.7);
+		width:100%;
+		height: 100%;
+	}
+	#popup-wrapper{
+		width:500px;
+		margin :70px auto;
+		text-align: left;	
+	}
+	
+	#popup-container{
+		background-color: #fff;
+		padding:20px;
+		border-radius :4px;
+	}
+/****************  END OF DISPLAY FOR CUSTOM MODAY   **********************/
+.showbloack {
+ display : block;
+}
+
+#makerequestformfortill {
+ display : none;
+}
+
+#viewrequest {
+ display : none;
+}
+.forcommentdisplay{
+    display:none;
+}
+
+.forcommentdisplayforicuonly{
+    display:none;
+}
+#mainformclick{
+    display:none;
+}
+.notshowyet{
+    display:none;
+}
+
+#disposebox{
+	position:absolute;
+	top:200px;
+	right:10px;
+	width:0 auto;
+	 background: #fffcfc;
+	background: -moz-linear-gradient(top, #ffffff 0%, #fffcfc 100%);
+	  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #fffcfc));
+	  background: -webkit-linear-gradient(top, #ffffff 0%, #fffcfc 100%);
+	  background: -o-linear-gradient(top, #ffffff 0%, #fffcfc 100%);
+	  background: -ms-linear-gradient(top, #ffffff 0%, #fffcfc 100%);
+	  background: linear-gradient(to bottom, #ffffff 0%, #fffcfc 100%);
+	  opacity: 1;
+	border-radius:10px;
+        border:2px solid #3109a0;
+	padding:10px;
+	display:none;
+	color: black;
+	height:auto;
+        width:400px;
+}
+.btnblue{
+    padding:10px;
+    color:white;
+}
+
+#myacctputalert{
+	
+	font-size:12px;
+}
+
+.btn-circle {
+  width: 49px;
+  height: 49px;
+  text-align: center;
+  padding: 5px 0;
+  font-size: 20px;
+  line-height: 2.00;
+  border-radius: 30px;
+}
+
+.btn-circle-micro {
+  width: 19px;
+  height: 19px;
+  text-align: center;
+  padding: 1px 0;
+  font-size: 13px;
+  line-height: 0.1;
+  border-radius: 30px;
+}
+
+.btn-circle-sm {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  padding: 2px 0;
+  font-size: 20px;
+  line-height: 1.65;
+  border-radius: 30px;
+}
+
+
+.nav>li>a{
+    padding: 10px 15px !important;
+}
+
+::-webkit-scrollbar {
+  width: 0.4em;
+  height: 0.4em;
+}
+
+::-webkit-scrollbar-thumb {
+  background: slategray;
+}
+
+::-webkit-scrollbar-track {
+  background: #b8c0c8;
+}
+
+body {
+  scrollbar-face-color: slategray;
+  scrollbar-track-color: #b8c0c8;
+}
+
+.firstsearch{
+    background-color: black;
+}
+
+
+
+/* **************  CSS DISPLAY FOR CUSTOM MODAL **************************/
+
+#ac-wrapper {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.6);
+    z-index: 1001;
+}
+#popup {
+    width: 500px;
+    height: 300px;
+    background: #FFFFFF;
+    border: 1px solid #e1e3e8;
+    border-radius: 1px;
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
+    box-shadow: #f9f9f9 0px 0px 1px 1px;
+    -moz-box-shadow: #f9f9f9 0px 0px 1px 1px;
+    -webkit-box-shadow: #f9f9f9 0px 0px 1px 1px;
+    position: relative;
+    margin: 0px auto;
+    top:150px;
+    
+}
+   
+.toppadding{
+ padding-top:20px;   
+}
+.tastkform{
+    font-size:20px;
+    font-weight:bold;
+    color:#e00d3b;
+}
+.mainContainer{
+    padding-left:15px;
+    padding-right:15px;
+}
+.mymainform{
+    padding-top:10px;
+}
+.mycoustomalert{
+    background-color:darkred;
+    color:white;
+    padding:5px;
+}
+
+.form-controls {
+    display: inline;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.bgback{
+   background-image: url("https://c-iprocure.com/moneybook/public/images/body-bg17.png");
+}
+
+.errorMsgTravel{
+    border:1px solid red;
+}
+
+.error{
+	display: none;
+	margin-left: 10px;
+}		
+
+.error_show{
+	color: red;
+	margin-left: 10px;
+}
+input.invalid, textarea.invalid, select.invalid{
+ border: 2px solid red;
+}
+
+input.valid, textarea.valid, select.valid{
+border: 2px solid green;
+}
+.errorNo, .errorName, .errorEmail, .errorLocation, .errorUnit, .errorDestin, .errorTrip, .rerror, .serror, .errorHOD, .errorLog, .errorPurpose{
+    color:red;
+}
+
+
+
+input[type='file'] {
+    opacity:20 !important;
+}
