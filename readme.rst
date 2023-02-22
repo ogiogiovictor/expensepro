@@ -64,11 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Management of company daily expenses for both petty cash and cheque request. Cashier and Account management with integration of third-party APIs. Built with: (Codeginter, HTML, Javascript)
 
-
-
 ## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -88,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://www.c-iprocure.com/expensepro//)
+- [Live Demo Link](https://www.c-iprocure.com/expensepro/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +100,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Clone the repository from  https://github.com/ogiogiovictor/expensepro
+- Clone the repository from  https://github.com/ogiogiovictor/expensepro/
 -  extract and cd into the repository
 
 
@@ -112,7 +108,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- Clone the repository from https://github.com/ogiogiovictor/expensepro
+- Clone the repository from  https://github.com/ogiogiovictor/expensepro/
 -  extract and cd into the repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
